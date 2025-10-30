@@ -4,7 +4,7 @@
 
 Using advanced SQL techniques — **CTEs, Window Functions, Aggregations, and Joins** 
 
-**Dataset:** [Kaggle](https://www.kaggle.com/sahasuman01) 
+**Dataset:** [Kaggle](https://www.kaggle.com/datasets/rohitgrewal/hr-data-mnc) 
 
 **Presented by:** Suman Saha  
 
@@ -348,5 +348,6 @@ ORDER BY exp_salary_corr DESC;
 ## 🙏 Thank You  
 **Suman Saha — Data Analyst**  
 *Questions & Discussion Welcome*
+
 
 
