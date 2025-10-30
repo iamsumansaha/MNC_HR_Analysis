@@ -1,7 +1,8 @@
 # 🏢 MNC Data Analysis using SQL
 
 **Comprehensive Analysis of Employee Records, Salaries, Performance Metrics, and Attrition Patterns**  
-Using advanced SQL techniques — **CTEs, Window Functions, Aggregations, and Joins**  
+Using advanced SQL techniques — **CTEs, Window Functions, Aggregations, and Joins** 
+**Dataset:** [Kaggle](https://www.kaggle.com/sahasuman01) 
 **Presented by:** Suman Saha  
 **Role:** Data Analyst  
 **Date:** 10-09-2025  
@@ -342,3 +343,4 @@ ORDER BY exp_salary_corr DESC;
 ## 🙏 Thank You  
 **Suman Saha — Data Analyst**  
 *Questions & Discussion Welcome*
+
